@@ -1,4 +1,6 @@
 4/28
+https://itnext.io/how-to-build-a-productivity-application-in-react-part-3-a1c4e212fdcb
+https://itnext.io/how-to-build-a-productivity-application-in-react-part-2-7a5f9b8fed3
 https://medium.com/@bchesky/dont-fuck-up-the-culture-597cde9ee9d4
 https://medium.com/@rileypredum/get-the-job-you-really-want-with-these-6-linkedin-tips-e8fd23c7e62
 
